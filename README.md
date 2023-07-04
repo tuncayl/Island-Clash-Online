@@ -31,18 +31,29 @@ https://github.com/tuncayl/Island-Clash-Online/assets/74078533/e526b7ef-1ecc-457
 
 ## Client Side Prediction 
 
-https://github.com/tuncayl/Island-Clash-Online/assets/74078533/d149ca27-4be8-4503-ae4d-ee4ba6316a61
+
+https://github.com/tuncayl/Island-Clash-Online/assets/74078533/f04433b8-8f47-4cab-9d70-77a7c66bec66
+
+
 ## Lag Compensation 
 
-https://github.com/tuncayl/Island-Clash-Online/assets/74078533/5a334b25-af57-482f-85f3-51b15c62db29
+
+https://github.com/tuncayl/Island-Clash-Online/assets/74078533/aa2ae573-e999-4513-8e43-4e5a82f13674
+
 
 ## server authoritative movement
 
-https://github.com/tuncayl/Island-Clash-Online/assets/74078533/2136d91f-7ff4-4b41-af9c-5dd81a315bf8
+
+
+https://github.com/tuncayl/Island-Clash-Online/assets/74078533/3e14d638-c76a-441a-b050-10120d528e25
+
 
 ## Lobby-SceneStacking
 
-https://github.com/tuncayl/Island-Clash-Online/assets/74078533/6a1d84f2-518d-4e80-aad9-260d708f61c5
+
+https://github.com/tuncayl/Island-Clash-Online/assets/74078533/562f84bf-ce58-4c47-8787-72b20681ac68
+
+
 
 
 
