@@ -8,6 +8,7 @@ I share the source codes of the Island Clash game that I made in my spare time.
 3. Fly Weight Pattern
 4. Command Pattern
 5. Singleton Pattern
+6. MVVM Pattern
 
 ## Additional Packages Used
 
