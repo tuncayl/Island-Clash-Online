@@ -19,7 +19,6 @@ I share the source codes of the Island Clash game that I made in my spare time.
 
 
 #online techniques used
-Game Test View
 https://github.com/tuncayl/Island-Clash-Online/assets/74078533/53d37fff-653d-49c5-93d7-77d3bbfa4ba7
 ## Client Side Prediction 
 https://github.com/tuncayl/Island-Clash-Online/assets/74078533/d149ca27-4be8-4503-ae4d-ee4ba6316a61
