@@ -22,7 +22,10 @@ I share the source codes of the Island Clash game that I made in my spare time.
 
 ## Game Testing View
 
-https://github.com/tuncayl/Island-Clash-Online/assets/74078533/53d37fff-653d-49c5-93d7-77d3bbfa4ba7
+
+
+https://github.com/tuncayl/Island-Clash-Online/assets/74078533/e526b7ef-1ecc-457f-9f68-d8b80b7a2c64
+
 
 # Online Techniques Used 
 
