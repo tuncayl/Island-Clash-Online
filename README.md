@@ -21,9 +21,8 @@ I share the source codes of the Island Clash game that I made in my spare time.
 
 
 ## Game Testing View
-<video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/tuncayl/Island-Clash-Online/assets/74078533/53d37fff-653d-49c5-93d7-77d3bbfa4ba7" type="video/mp4">
-</video>
+
+https://github.com/tuncayl/Island-Clash-Online/assets/74078533/53d37fff-653d-49c5-93d7-77d3bbfa4ba7
 
 # Online Techniques Used 
 
